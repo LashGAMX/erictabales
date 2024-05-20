@@ -47,7 +47,10 @@ html,
         margin-bottom: 2px;
         height: 120px;
     }
-
+    .swiper {
+        width: 600px;
+        height: 300px;
+      }
     .menus p{
         color: #fff;
         font-weight: bold;

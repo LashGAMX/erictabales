@@ -1,9 +1,10 @@
-var mySwiper 
+var mySwiper; // Declarar mySwiper como variable global
+
 $(document).ready(function () {
-    $('#btnIntroduccion').click(function(){
-		window.location.href = base_url+"/introduccion";
-	});
-    mySwiper = new Swiper('.swiper-container', {
-        // Configuración de Swiper
-    });
+    mySwiper = new Swiper('.swiper', {
+        // Optional parameters
+        direction: 'vertical',
+        loop: true, 
+ 
+      });
 });
