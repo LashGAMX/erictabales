@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('css')
-    <link rel="stylesheet" href="{{asset('css/home/home.css')}}">
+    <link rel="stylesheet" href="{{asset('public/css/home/home.css')}}">
 @endsection
 
 @section('content')
@@ -24,5 +24,5 @@
 </div>
 @endsection 
 @section('js')
-    <script src="{{asset('js/home/home.js')}}"></script>
+    <script src="{{asset('public/js/home/home.js')}}"></script>
 @endsection
