@@ -768,7 +768,7 @@
             </div>
         </div>
 
-        <div class="swiper-slide">
+        {{-- <div class="swiper-slide">
             <div class="barra2 barra">
                 
             </div>
@@ -907,9 +907,9 @@
                     </li>
                 </ul>
             </div>
-        </div>
+        </div> --}}
 
-        <div class="swiper-slide">
+        {{-- <div class="swiper-slide">
             <div class="barra2 barra">
                 
             </div>
@@ -1048,7 +1048,7 @@
                     </li>
                 </ul>
             </div>
-        </div>
+        </div> --}}
         {{-- <div class="swiper-slide">
             <div class="barra2 barra">
                 

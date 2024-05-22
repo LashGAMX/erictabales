@@ -10,8 +10,10 @@
 slides-per-view="auto" coverflow-effect-rotate="50" coverflow-effect-stretch="0" coverflow-effect-depth="100"
 coverflow-effect-modifier="1" coverflow-effect-slide-shadows="true">
   <swiper-slide>
-    
-    <img src=" https://swiperjs.com/demos/images/nature-1.jpg" onclick="modalImagen(this)"/>
+    <img src="{{asset('public/img/05LacaidadeIcaro.jpg')}}" alt="La caída de Ícaro" id="imgCairo" onclick="modalImagen('imgCairo')">
+    <br>
+    <center><p class="titulo">“La caída de Ícaro”</p></center>
+    <center><p class="subTitulo">Año- 2001 | 60” x 60” | Tela oxidada</p></center>
   </swiper-slide>
   <swiper-slide>
     <img src="{{asset('public/img/Dafne.jpg')}}" alt="Dafne" id="imgDafne" onclick="modalImagen('imgDafne')">
@@ -20,7 +22,10 @@ coverflow-effect-modifier="1" coverflow-effect-slide-shadows="true">
     <center><p class="subTitulo">Año - 2017 | 60” x 48” | medio mixto</p></center>
   </swiper-slide>
   <swiper-slide>
-    <img src="https://swiperjs.com/demos/images/nature-4.jpg" />
+    <img src="{{asset('public/img/belerofonte.jpg')}}" alt="Belerofontes sobre Pegaso" id="imgbelerofonte" onclick="modalImagen('imgbelerofonte')">
+    <br>
+    <center><p class="titulo">“Belerofontes sobre Pegaso”</p></center>
+    <center><p class="subTitulo">Año - 2018 | 60” x 72” | medio mixto</p></center>
   </swiper-slide>
   <swiper-slide>
     <img src="{{asset('public/img/ledacisne.jpg')}}" alt="Leda y el cisne" id="imgLedacisne" onclick="modalImagen('imgLedacisne')">
@@ -29,16 +34,28 @@ coverflow-effect-modifier="1" coverflow-effect-slide-shadows="true">
     <center><p class="subTitulo">Año - 2018 | 60” x 48” | medio mixto</p></center>
   </swiper-slide>
   <swiper-slide>
-    <img src="https://swiperjs.com/demos/images/nature-6.jpg" />
+    <img src="{{asset('public/img/hector.jpg')}}" alt="Héctor" id="imghector" onclick="modalImagen('imghector')">
+    <br>
+    <center><p class="titulo">“Héctor”</p></center>
+    <center><p class="subTitulo">Año - 2001 | 48” x 60” | Tela oxidada</p></center>
   </swiper-slide>
   <swiper-slide>
-    <img src="https://swiperjs.com/demos/images/nature-7.jpg" />
+    <img src="{{asset('public/img/15Zeus.jpg')}}" alt="Zeus" id="imgZeus" onclick="modalImagen('imgZeus')">
+    <br>
+    <center><p class="titulo">“Zeus”</p></center>
+    <center><p class="subTitulo">Año - 2001 | 60” x 48” | Tela oxidada</p></center>
   </swiper-slide>
   <swiper-slide>
-    <img src="https://swiperjs.com/demos/images/nature-8.jpg" />
+    <img src="{{asset('public/img/prTeo.jpg')}}" alt="PR-ome Teo encadenado" id="imgTeo" onclick="modalImagen('imgTeo')">
+    <br>
+    <center><p class="titulo">“PR-ome Teo encadenado”</p></center>
+    <center><p class="subTitulo">Año - 2018 | 60” x 72” | medio mixto</p></center>
   </swiper-slide>
   <swiper-slide>
-    <img src="https://swiperjs.com/demos/images/nature-9.jpg" />
+    <img src="{{asset('public/img/19Morfeo.jpg')}}" alt="Morfeo" id="imgMorfeo" onclick="modalImagen('imgMorfeo')">
+    <br>
+    <center><p class="titulo">“Morfeo”</p></center>
+    <center><p class="subTitulo">Año - 2001 | 60” x 60” | Tela oxidada</p></center>
   </swiper-slide>
 </swiper-container>
 
