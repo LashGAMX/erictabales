@@ -4314,7 +4314,7 @@
         </div>
         <div class="modal-body">
             <video controls id="videoMod">
-                <source src="{{asset('public/video/hectortroya.mp4')}}" type="video/mp4">
+                <source src="{{asset('public/video/dafnevideo.mp4')}}" type="video/mp4">
                 Tu navegador no soporta el elemento de video.
             </video>
         </div>
