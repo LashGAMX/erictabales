@@ -25,38 +25,32 @@ $(document).ready(function () {
   });
 
   $('#menu').click(function () {
-    mySwiper.slideTo(2)
+    retrunSlider(2)
   });
   $('#menu2').click(function () {
-    mySwiper.slideTo(5)
+    retrunSlider(4)
+  });
+  $('#menu3').click(function () {
+    retrunSlider(12)
+  });
+  $('#menu4').click(function () {
+    retrunSlider(32)
   });
   $('#menu7').click(function () {
     window.location.href = base_url+"/obras";
   });
+  // $('#homeIcon').click(function () {
+  //   retrunSlider(0)
+  // });
   $('.homeIcon').click(function () {
-    mySwiper.slideTo(0)
+    retrunSlider(0)
   });
 
 
 });
+function retrunSlider(id){
+  const swiperEl = document.querySelector('swiper-container');
+  // const buttonEl = document.querySelector('button');
 
-  // script.js
-  document.addEventListener('DOMContentLoaded', (event) => {
-    const modal = document.getElementById("myModal");
-    const btn = document.getElementById("btnVideo");
-    const span = document.getElementsByClassName("close")[0];
-  
-    btn.onclick = function() {
-        modal.style.display = "flex";
-    }
-  
-    span.onclick = function() {
-        modal.style.display = "none";
-    }
-  
-    window.onclick = function(event) {
-        if (event.target == modal) {
-            modal.style.display = "none";
-        }
-    }
-    });
+  swiperEl.swiper.slideTo(id);
+}
