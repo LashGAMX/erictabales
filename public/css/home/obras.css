@@ -12,6 +12,17 @@ body {
   margin: 0;
   padding: 0;
 }
+.barra{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+
+  background-color: #6b1a9a;
+}
 
 swiper-container {
   width: 100%;

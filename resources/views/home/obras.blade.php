@@ -7,8 +7,8 @@
 @section('content')
 
 <swiper-container class="mySwiper" pagination="true" effect="coverflow" grab-cursor="true" centered-slides="true"
-slides-per-view="auto" coverflow-effect-rotate="50" coverflow-effect-stretch="0" coverflow-effect-depth="100"
-coverflow-effect-modifier="1" coverflow-effect-slide-shadows="true">
+  slides-per-view="auto" coverflow-effect-rotate="50" coverflow-effect-stretch="0" coverflow-effect-depth="100"
+  coverflow-effect-modifier="1" coverflow-effect-slide-shadows="true">
   <swiper-slide>
     <img src="{{asset('public/img/05LacaidadeIcaro.jpg')}}" alt="La caída de Ícaro" id="imgCairo" onclick="modalImagen('imgCairo')">
     <br>
@@ -57,7 +57,22 @@ coverflow-effect-modifier="1" coverflow-effect-slide-shadows="true">
     <center><p class="titulo">“Morfeo”</p></center>
     <center><p class="subTitulo">Año - 2001 | 60” x 60” | Tela oxidada</p></center>
   </swiper-slide>
+  <swiper-slide>
+    <img src="{{asset('public/img/06Cefiro.jpg')}}" alt="Céfiro" id="imgCefiro" onclick="modalImagen('imgCefiro')">
+    <br>
+    <center><p class="titulo">“Céfiro”</p></center>
+    <center><p class="subTitulo">Año - 2001 | 48” x 60” | Tela oxidada</p></center>
+  </swiper-slide>
+  <swiper-slide>
+    <img src="{{asset('public/img/30Orfeoenlas.jpg')}}" alt="30Orfeoenlas" id="imgOrfeoenlas" onclick="modalImagen('imgOrfeoenlas')">
+    <br>
+    <center><p class="titulo">“30Orfeoenlas”</p></center>
+    <center><p class="subTitulo">Año- 2001 | 60” x 60” | Tela oxidada</p></center>
+  </swiper-slide>
 </swiper-container>
+<div class="barra">
+
+</div>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">

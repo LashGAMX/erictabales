@@ -22,13 +22,13 @@
                 <p>CURRICULUM VITAE</p>
             </div>
             <div class="col-12 menus" id="menu5">
-                <p>TITULO</p>
+                <p>OBRAS</p>
             </div>
             <div class="col-12 menus" id="menu6">
-                <p>TITULO</p>
+                <p>ALIADOS</p>
             </div>
             <div class="col-12 menus" id="menu7">
-                <p>OBRAS</p>
+                <p>PROPUESTA DE PROGRAMA PÚBLICO</p>
             </div>
         </div>
     </swiper-slide>
@@ -2706,77 +2706,37 @@
                         <tr>
                             <td></td>
                             <td>
-                                <p class="tituloLista2">EDUCATION:</p>
+                                <p class="tituloLista2">EMPLEO / EMPLOYMENT</p>
                             </td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td>
-                                <p class="tituloLista2" style="font-weight: normal">ACADEMIC DEGREES:</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="tablaTitulo">
-                                <p>a) &nbsp;</p>
+                            <td class="tabSubtitulo">
+                                
                             </td>
                             <td>
                                 <p class="tablaContenido">
-                                    MFA (M.A. in Visual Arts, Painting). Academia de
-                                    San Carlos, Escuela Nacional de Artes Plásticas,
-                                    Universidad Nacional Autónoma de México. 1995.
-                                </p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="tablaTitulo">
-                                <p>b) &nbsp;</p>
-                            </td>
-                            <td>
-                                <p class="tablaContenido">
-                                    B.A in Visual Arts, Major in Painting, University of
-                                    Puerto Rico, Río Piedras Campus. 1993.
-                                </p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="tablaTitulo">
-                                <p>c) &nbsp;</p>
-                            </td>
-                            <td>
-                                <p class="tablaContenido">
-                                    Post B.A. in Medical Technology. University of Puerto
-                                    Rico. Escuela de Medicina de San Juan, Puerto Rico.
-                                    1988.
-                                </p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="tablaTitulo">
-                                <p>d) &nbsp;</p>
-                            </td>
-                            <td>
-                                <p class="tablaContenido">
-                                    B.A in Natural Sciences, Major in Chemistry and
-                                    Biology. University of Puerto Rico, Río Piedras
-                                    Campus. 1985.
-                                </p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <td>
-                                <p class="tituloLista2">TEACHING EXPERIENCE:</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <td>
-                                <p class="tabSubtitulo">
-                                    2005 – Present
-                                </p>
-                                <p class="tablaContenido">
-                                    Resident Artist. Universidad Central de Bayamón.
-                                    Bayamón, Puerto Rico.
+                                    <strong>Present - 2011</strong><br>
+                                    Curador / Historiador / Cineasta Independiente
+                                    Independent Art curator / Historian / Filmmaker.
+                                    <br><br>
+                                    <strong>2011</strong><br>
+                                    Columbia University, NYC Gallery at The Center
+                                    CSER,Center for the Study of Ethnicity and Race.
+                                    Associate Curator / Essayist, New York City,
+                                    E.E.U.U.
+                                    <br><br>
+                                    <strong>2011 - 1999</strong><br>
+                                    De Museo GALERÍA DE ARTE Co- director, Co-
+                                    fundador. San Juan, Puerto Rico.
+                                    <br><br>
+                                    <strong>1999 - 1997</strong><br>
+                                    Museo de Historia, Antropología y Arte
+                                    Universidad de Puerto Rico Recinto de Río
+                                    Piedras, Río Piedras, Puerto Rico. Estudio y
+                                    Trabajo / Work & Study.
+                                    <br><br>
+                                    <strong>1990 - 1989</strong><br>
+                                    Museo de Arte Contemporáneo de Puerto Rico
                                 </p>
                             </td>
                         </tr>
@@ -2786,6 +2746,1553 @@
             
         </div>
     </swiper-slide>
+
+
+    <swiper-slide>
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+    
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    San Juan, Puerto Rico. Trabajo voluntario /
+                                    Voluntary Work.
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <p class="tituloLista2">EDUCACIÓN / EDUCATION</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>2021,</strong> Doctorado en Historia Cultural
+                                    Cultural History Doctorate
+                                    Universidad De Puerto Rico, Recinto de Río Piedras
+                                    Expected in 2025
+                                    <br><br>
+                                    <strong>2018,</strong> Maestría en Gestión y Administración
+                                    Cultural
+                                    Masters in Culture Agency and Administration
+                                    Universidad de Puerto Rico, Recinto de Río Piedras
+                                    Río Piedras, Puerto Rico 
+                                    <br><br>
+                                    <strong>2007,</strong> Bachiller en Humanidades, BA
+                                    Concentración en Historia del Arte / Art History
+                                    Universidad de Puerto Rico Recinto de Río Piedras
+                                    Río Piedras, Puerto Rico
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <p class="tituloLista2">TALLERES Y SEMINARIOS / WORKSHOPS AND SEMINARS</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>2022</strong><br>
+                                    <strong>Caribbean University, Museo de Arte
+                                        (MACU). Arte del Caribe Contemporáneo,
+                                        Transculturación, Diáspora y Arte Público.</strong>
+                                    Seminario con la Dra. Yolanda Wood.
+                                    <strong>2016</strong><br>
+                                    <strong>Universitat de Barcelona, Red IBERTUR,
+                                        LABPATC</strong> - Laboratorio de Patrimonio, Creatividad
+                                    y Turismo Cultural / LABPATC, Laboratory of
+                                    Heritage, Creativity and Cultural Tourism, University
+                                    of Barcelona and IBERTUR.
+                                    <br><br>
+                                    <strong>2014</strong><br>
+                                    <strong>Academia de Profesionales de Museos para el Siglo XXI</strong>
+                                    IMLS, Universidad Del Turabo, Smithsonian Affiliate
+                                    Program. Curatorial intensive program.
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide>
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 tituloCurri">
+                <div class="container">
+                    <p>Curriculum</p>
+                    <p style="color: #6b1a9a">Vitae</p>
+                    <div class="nameCurri">
+                        <p>José Manuel Correa-Vigier</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>2000 - 1997</strong><br>
+                                    <strong>Restauración y Conservación / Restoration and
+                                        art conservation</strong><br>
+                                    Santiago Espinal
+                                    San Juan, Puerto Rico
+                                    <br><br>
+                                    <strong>1992</strong><br>
+                                    <strong>Proceso de Ejecución de la Colografía /
+                                        Collograph execution process</strong><br>
+                                    Profa. Myrna Báez Universidad del Sagrado
+                                    Corazón
+                                    San Juan, Puerto Rico
+                                    <br><br>
+                                    <strong>1991</strong><br>
+                                    <strong>Proceso Reproducción Xilográfica / Introduction
+                                        to woodcut printing</strong><br>
+                                    Prof. Carlos Raquel Rivera Taller del Artista
+                                    Río Piedras, Puerto Rico
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <p class="tituloLista2">CONFERENCIAS,SEMINARIOS,SIMPOSIOS /
+                                    CONFERENCES, SEMINARS, SYMPOSIA</p>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>2023</strong><br>
+                                <strong>    Presentación del catálogo oficial, Muestra
+                                    Legado. Panelista invitado.</strong><br>
+                                    Instituto de Cultura Puertorriqueña (ICP), San Juan,
+                                    Puerto Rico. 8 de febrero de 2023
+                                    <br><br>
+                                    <strong>2019</strong><br>
+                                    <strong>Arte Coloquios AICA</strong>
+                                    Organizador y Ponente / Organizer and Speaker
+                                    Caribbean University, Bayamon, Puerto Rico
+                                    16 de febrero de 2019
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide>
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+     
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>2017</strong><br>
+                                    <strong>Granell en la UPR</strong><br>
+                                    Conferenciante Invitado/ Guest Speaker.
+                                    Departamento de Historia del arte UPRRP 19 de
+                                    junio de 2017
+                                    <br><br>
+                                    <strong>2016</strong><br>
+                                    <strong>El Mirador Azul y Eugenio Granell.</strong><br>
+                                    Conferencia / Conference
+                                    Escuela de Artes Plásticas, San Juan, Puerto Rico
+                                    14 marzo de 2016.
+                                    <br><br>
+                                    <strong>2015</strong><br>
+                                    <strong>Cossette Zeno, Antología 1951-2014 /
+                                        Retrospective exhibition</strong><br>
+                                    Museo de Arte de Caguas, P.R Conferencia y visita
+                                    guiada,/ Conference and guided visit.
+                                    5 de septiembre de 2015
+                                    <br><br>
+                                    <strong>2014</strong>
+                                    <strong>Camino al Mirador Azul,</strong> Conferencia y visita
+                                    guiada, / Conference and guided visit. Galería de
+                                    arte USC. 3 de marzo de 2014
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <p class="tituloLista2">ESCRITOS / CRITICAL ESSAYS</p>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                   <strong> Autor en Visión Doble/ Author at Vision Doble
+                                    Art Journal,</strong> University art review magazine,UPRRP,
+                                    2015-2023.
+                                    <br><br>
+                                    <strong>El mirador azul.</strong> José Manuel Correa Vigier, 2007.
+                                    Tesina presentada como requisito para obtener
+                                    el Grado de Bachiller en Humanidades con
+                                    concentración en Historia del Arte. Universidad
+                                    de Puerto Rico. UPRRP
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    
+    <swiper-slide>
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+   
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td></td>
+                            <td>
+                                <p class="tituloLista2">PUBLICACIONES / PUBLISHED WORKS</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Antonio Martorell: Iconografías,</strong> Exposición
+                                    Antonio Martorell 2022, Exposition catalog. Space
+                                    Gallery, PR
+                                    <br><br>
+                                    “The Exiles of E. F. Granell,” in <strong>Surrealism Beyond
+                                        Borders,</strong> exh. cat., ed. Stephanie D’Alessandro and
+                                    Matthew Gale. New York:
+                                    Metropolitan Museum of Art and Tate Modern, 2021
+                                    <br><br>
+                                    <strong>La Letra,</strong> Exposición Lorenzo Homar, 2020,
+                                    Exposition catalog. Space Gallery, PR
+                                    <br><br>
+                                    <strong>Mitos y Dioses,</strong> Exposición Eric Tabales, 2018,
+                                    Exposition catalog. Museo de las Américas, PR
+                                    <br><br>
+                                    <strong>El origen de la imagen,</strong> Exposición Lorenzo Homar,
+                                    2018, Exposition catalog. Space Gallery, PR
+                                    <br><br>
+                                    <strong>Cossette Zeno, Antología,</strong> Exposición Cossette
+                                    Zeno, 2015, Exposition catalog. MUAC, PR
+                                    <br><br>
+                                    <strong>El canon oliveriano, Prisma,</strong> Exposición José R.
+                                    Oliver, 2015. Exposition catalog, Museo de arte de
+                                    Arecibo
+                                    <br><br>
+                                    <strong>Camino al Mirador Azul,</strong> Exposition Catalog, 2014.
+                                    Galería de arte USC.
+                                    <br><br>
+                                    <strong>Linda Sánchez Pintor, Esculturas,</strong> Exposition
+                                    catalog, 2013. De Museo Galería de Arte, San Juan,
+                                    P.R. <br><br>
+                                    <strong>Dulce Pinzón, Super Heroes,</strong> Exposition catalog,
+                                    2012. Critical essay. Columbia University. NYC
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide>
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>El trazo mítico.</strong> Exposition catalog, 2011. Critical
+                                    essay. Museo Francisco Oller. Bayamón, Puerto
+                                    Rico.
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <p class="tituloLista2"><u>PREMIOS Y RECONOCIMIENTOS /
+                                    AWARDS & RECOGNITIONS</u></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <p class="tituloLista2">PUERTO RICAN ART RESEARCH FELLOW,
+                                    ANDREW MELLON FOUNDATION, MUSEO DE
+                                    ARTE DE PONCE</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>2023</strong><br>
+                                    Ganador de la convocatoria, Puerto Rican Arte
+                                    Research Fellow
+                                    Museo de Arte de Ponce, Ponce Puerto Rico.
+                                    <br><br>
+                                    <strong>BECA PBMA</strong><br>
+                                    <strong>2022</strong><br>
+                                    Beca por Mérito Académico y Ejecutorias
+                                    Excepcionales Equivalentes. Decanato Graduado
+                                    de Investigación (DEGI). Universidad de Puerto
+                                    Rico, Recinto de Río Piedras. UPRRP.
+                                    <br><br>
+                                    <strong>PRESIDENT, AICA, P.R CHAPTER</strong><br>
+                                    <strong>2021</strong><br>
+                                    AICA PR. San Juan. Puerto Rico.
+                                    <br><br>
+                                    <strong>SEGUNDA BIENAL, ASOCIACIÓN DE ARTISTAS
+                                        PLÁSTICOS DE PUERTO RICO</strong><br>
+                                    Juez invitado / Invited Judge. Museo Casa Escuté
+                                    <br>
+                                    <strong>2019</strong><br><br>
+                                    <strong>POST GRADUATE TRAVEL INVESTIGATION
+                                        GRANT</strong><br>
+                                    Decanato graduado de investigación, Universidad
+                                    de Puerto Rico, Rio Piedras <br>
+                                    <strong>2017</strong>
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+  
+    <swiper-slide>
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>MIEMBRO AICA OFFICIAL MEMBER AFFILIATE,
+                                        P.R CHAPTER</strong><br>
+                                    <strong>2017</strong><br>
+                                    AICA PR. San Juan. Puerto Rico.
+                                    <br><br>
+                                    <strong>EUGENIO GRANELL FOUNDATION OFFICIAL
+                                        ENDORSEMENT FOR EXHIBITION PROJECT 2015</strong><br>
+                                    Cossette Zeno, Antología. Museo de arte de
+                                    Caguas,P.R.
+                                    <br>
+                                    Endoso oficial fundación Eugenio Fernández Granell
+                                    <br><br>
+                                    <strong>BEST GALLERY EXHIBITION NOMINATION,
+                                        CAMINO AL MIRADOR AZUL, AICA 2015</strong><br><br>
+                                    USC art gallery/ Galeria de arte, Universidad del
+                                    Sagrado Corazón <br>
+                                    Asociación de Críticos de Arte, AICA, February 15,
+                                    2015 <br>
+                                    Capítulo de Puerto Rico. San Juan, Puerto Rico
+                                    <br>
+                                    <strong>XXVIII BAQUINOQUIO, ANNUAL REMEMBRANCE
+                                        IN HONOR OF ROBERTO ALBERTY 2014</strong><br>
+                                    Municipio de Carolina, programa de Bellas Artes /
+                                    Carolina municipal arts program
+                                    <br>
+                                    September 20, 2014 <br>
+                                    Ensayista/Historiador invitado. Invited Writer /
+                                    Historian
+                                    <br><br>
+                                    <strong>DOCNYC, THE NEEDLE, OFFICIAL SELECTION
+                                        PREMIERE PROGRAM 2012, IFC Theater, NYC.</strong><br>
+                                    <strong>2012</strong>
+                                    Director / producer
+                                    <br><br>
+                                    <strong>ROCKEFELLER BROTHERS FUND</strong><br>
+                                    <strong>2011</strong><br>
+                                    Finishing funds program for The Needle/
+                                    Documentary project. <br>
+                                    Director/producer
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>RAUL JULIA CINEMA GRANT</strong><br>
+                                    <strong>2010</strong><br>
+                                    Corporación de Cine de Puerto Rico,Developing
+                                    Funds for The Needle, Documentary.
+                                    Director/producer
+                                    <br><br>
+                                    <strong>PREMIO EXHIBICIÓN DEL AÑO EN GALERÍA
+                                    COMERCIAL/ EXHIBITION OF THE YEAR, AICA</strong><br>
+                                    <strong>Félix Bonilla Norat</strong><br>
+                                    <strong>Maestro del color y movimiento</strong><br>
+                                    <strong>2003</strong><br>
+                                    Asociación de Críticos de Arte, AICA ,abril 16, 2004. <br>
+                                    Capítulo de Puerto Rico, San Juan, Puerto Rico
+                                    <br><br>
+                                    <strong>PREMIO EXHIBICIÓN DEL AÑO EN GALERÍA
+                                    COMERCIAL/EXHIBITION OF THE YEAR, AICA</strong><br>
+                                    <strong>Carlos Marcial</strong><br>
+                                    <strong>Parajes Olvidados</strong><br>
+                                    <strong>2002</strong><br>
+                                    Asociación de Críticos de Arte, AICA, Marzo, 12,
+                                    2003 <br>
+                                    Capítulo de Puerto Rico. San Juan, Puerto Rico
+                                    <br><br>
+                                    <strong>PREMIO EXPOSICIÓN GALERÍA COMERCIAL/
+                                        EXHIBITION OF THE YEAR, AICA Félix Bonilla</strong>
+                                    <strong>Norat</strong><br>
+                                    <strong>Su espacio interior</strong><br>
+                                    <strong>2001</strong><br>
+                                    Asociación de Críticos de Arte, AICA.Capítulo de
+                                    Puerto Rico. San Juan, Puerto Rico
+                                    <br><br>
+                                   <strong> NOMINACIÓN EXPOSICIÓN HISTÓRICA/
+                                    HISTORICAL EXPOSITION NOMINATION Félix
+                                    Bonilla Norat</strong><br>
+                                    Su espacio interior 2001 Asociación de Críticos
+                                    de Arte, AICA Capítulo de Puerto Rico San Juan,
+                                    Puerto Rico
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Asesor y Colaborador Exposición,El mundo de
+                                        la ingenuidad/ Collaborator & Advisor Muestra
+                                        Internacional de Arte Naif</strong> <br>
+                                    Museo de Arte de Puerto Rico. San Juan, Puerto
+                                    Rico
+                                    <strong>2001</strong> <br> <br>
+                                    <strong>CURADURÍA Y MONTAJES / CURATORSHIP &
+                                        EXHIBITIONS (Selection)</strong> <br><br>
+
+                                    <strong>Detrás del Sol: Granell en Puerto Rico</strong><br>
+                                    Fundación Eugenio Granell, Santiago de
+                                    Compostela, España. <br>
+                                    <strong>2023</strong> <br><br>
+                                    <strong>Antono Martorell; Iconografías</strong> <br>
+                                    Space Gallery, San Patricio Art Center, San Juan, <br>
+                                    P.R. <br>
+                                    <strong>2022</strong> <br> <br>
+                                    <strong>Surrealism Beyond Borders</strong> <br>
+                                    Metropolitan Museum of Art & Tate Modern
+                                    New York City - London, England
+                                    Associate curator / Essayist
+                                    <strong>2021 - 2022</strong> <br> <br>
+                                    <strong>La Letra, Lorenzo Homar</strong> <br>
+                                    Space Gallery, San Patricio Art Center, San Juan,
+                                    P.R. <br>
+                                    <strong>2020</strong> <br>
+                                    <br>
+                                    <strong>Punto Medio: Mitos y Dioses, Eric Tabales</strong> <br>
+                                    Museo de las Américas, San Juan, P.R. <br>
+                                    <strong>2018</strong>
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Conexos: Noemi Ruiz, Anna Nicholson y Susana
+                                        Herrero</strong> <br>
+                                    Space Gallery, San Patricio Art Center, San Juan,
+                                    P.R. <br>
+                                    <strong>2018</strong> <br> <br>
+                                    <strong>El origen de la imagen, Bocetos y Diseños de
+                                        Lorenzo Homar</strong> <br>
+                                    Space Gallery, San Patricio Art Center, San Juan ,
+                                    P.R.
+                                    <strong>2018</strong> <br> <br>
+                                    <strong>Cossette Zeno, Antología 1951-2014 /
+                                        Retrospective exhibition</strong> <br>
+                                    Museo de Arte de Caguas, P.R. <br>
+                                    <strong>2015</strong> <br> <br>
+                                    <strong>Prisma, pinturas de Jose R. Oliver</strong> <br>
+                                    Museo de Arte de Arecibo, P.R. <br>
+                                    <strong>2015</strong> <br>
+
+                                    <strong>Camino al Mirador Azul,</strong> Galeria de Arte USC <br>
+                                    <strong>2014</strong> <br><br>
+
+                                    <strong>Linda Sánchez Pintor, Esculturas</strong>
+                                    De museo Galeria de Arte <br>
+                                    <strong>2013</strong>
+                                    <br><br>
+                                    <strong>Dulce Pinzón , Super heroes</strong> <br>
+                                    Gallery at the Center, Columbia University NYC
+                                    Noviembre, 2012. New York City. <br>
+                                    <strong>2012</strong> <br><br>
+                                    Lorenzo Homar, El trazo mítico
+                                    Museo Francisco Oller
+                                    Bayamón, Puerto Rico <br>
+                                    <strong>2011</strong>
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Lorenzo Homar (1913-2004): Obra y Legado</strong>
+                                    ... de Museo GALERÍA DE ARTE =. San Juan,
+                                    Puerto Rico
+                                    <br>
+                                    <strong>2010</strong> <br><br>
+
+                                    <strong>CIRCA Puerto Rico ‘08 / Third Edition
+                                        International Art Fair</strong> <br>
+                                    ... de Museo GALERIA DE ARTE
+                                    Centro de Convenciones de Puerto Rico. 14 al 16 de
+                                    abril de 2008, Booth A- 5
+                                    San Juan, Puerto Rico
+                                    <br> <br>
+                                        <strong> Merrill Lynch Arteaméricas,The Latin American
+                                            Art Fair
+                                            </strong><br>
+                                    ... de Museo GALERIA DE ARTE
+                                    Miami Beach Convention Center, Miami, Florida <br>
+                                    <strong>2007</strong>
+                                    <br> <br>
+                                    <strong>CIRCA Puerto Rico ‘07/ Second Edition
+                                        International Art Fair</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    Centro de Convenciones de Puerto Rico, 30 de
+                                    marzo al 2 de abril de 2007 Booth A- 2 San Juan,
+                                    Puerto Rico
+                                    <br><br>
+                                    <strong>Iván Girona: INTENSO</strong><br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2006</strong> <br>
+                                    <strong>Photo Miami ‘06
+                                        The International Contemporary Art Fair of Photo
+                                        – Based Art, Video & New Media</strong><br>
+                                    ... de Museo GALERIA DE ARTE, Wynwood Art
+                                    District <br>
+                                    Miami, Florida
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Primera Colectiva de Arte Clásico Puertorriqueño</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico, <strong>2005</strong> <br><br>
+                                    <strong>Walt Dehner: Pilar de la Plástica Puertorriqueña</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2004</strong> <br> <br>
+                                    <strong>Carlos Marcial: Al desnudo</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2004</strong> <br> <br>
+                                    <strong>Félix Bonilla Norat: Maestro del color y
+                                        movimiento</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2003</strong> <br>
+                                    <strong>José Meléndez Contreras: Obra sobre papel
+                                        (1948- 1953)</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2003</strong>
+                                    <strong>Añoranzas: Obras recientes de Samuel Sánchez</strong>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2002</strong> <br> <br>
+                                    <strong>Carlos Marcial: Parajes Olvidados</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong> 2002</strong>
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Isaura Mergal: Simplemente Naif</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2002</strong> <br> <br>
+                                    <strong>Leslie Colombani: Regenerando</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2001</strong> <br>
+                                    <strong>Félix Bonilla Norat: Su espacio interior</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2001</strong> <br><br>
+                                    <strong>Carlos Raquel Rivera, Una visión personal</strong> <br>
+                                    Galería de Arte
+                                    Universidad del Sagrado Corazón
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2001</strong> <br> <br>
+                                    <strong>Primera Muestra de Arte Clásico Puertorriqueño</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2000</strong> <br> <br>
+                                    <strong>Félix Bonilla Norat: Intérprete de su tiempo</strong> <br>
+                                    ... de Museo GALERÍA DE ARTE
+                                    San Juan, Puerto Rico <br>
+                                    <strong>2000</strong>
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    RESEÑAS EN PRENSA ESCRITA / PRESS,
+                                    FEATURES <br> <br>
+
+                                    <strong>RECENT PRESS. Tags; José Correa Vigier,
+                                        Cossette Zeno, Eugenio Fernández Granell.</strong>
+                                    <br><br>
+                                    <strong>Visión Doble, Ocho mil espejos Oscuros. Galeria
+                                        de arte USC,</strong> Cheryl Hartup, Febrero de 2014 <br> <br>
+
+                                    <strong>Obra y legado de Lorenzo Homar en el Museo
+                                        Galería de Arte.</strong> Jorge Rodríguez. 11 de marzo de
+                                    2010. Periódico El Vocero. Páginas 52 y 53. <br> <br>
+
+                                    <strong>Legado de Lorenzo Homar.</strong> Leyra E. González. 11
+                                    de marzo de 2010. Periódico El Nuevo Día. Página
+                                    80. <br> <br>
+
+                                 <strong>   Reaparecen serigrafías de los VIII Juegos
+                                    Panamericanos de Lorenzo Homar.</strong> Jorge
+                                    Rodríguez. 17 de junio de 2010.
+                                    Periódico El Vocero. Páginas 44 y 45. <br><br>
+
+                                    <strong>Iván Girona: intenso.</strong> Mariana García Benítez, 17 de
+                                    mayo de 2007. Periódico Primera Hora. Página 73.
+                                    <br><br>
+                                    <strong>Avalancha visual.</strong> Ana Teresa Toro Ortiz, 12 de
+                                    mayo de 2007. Periódico El Nuevo Día. Páginas 96 y
+                                    97.
+                                    <br><br>
+                                    <strong>Intenso Iván Girona.</strong> Jorge Rodríguez, 11 de mayo
+                                    de 2007. Periódico el Vocero. Páginas 8 y 9. <br> <br>
+
+                                    <strong>Todo un floorplan en CIRCA PUERTO RICO 07.</strong><br>
+                                    Lilliam Nieves. <br>
+                                    www.tranceliquido.com/2007/04/17/todo-un-
+                                    floorplan. <br>
+                                    Abril 17, 2007
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>UNA APERTURA A LA DUALIDAD DE LOS
+                                        SIGLOS ...de Museo GALERÍA DE ARTE.</strong> <br>
+                                    Entrevista- Corinne Timsit / Redacción- Carmen
+                                    Graciela Díaz, marzo a abril de 2007. Art PREMIUM
+                                    La Revista de Arte de Puerto Rico Vol. 4 Núm. 18.
+                                    Páginas 60- 63.
+                                    <br><br>
+                                    <strong>Merrill Lynch Arteaméricas de nuevo en Miami.</strong> <br>
+                                    Raisa Clavijo, 22 de marzo de 2007. Periódico
+                                    Primera Hora. <br>
+                                    Páginas 68 y 69. <br> <br>
+
+                                    <strong>A romper el insularismo.</strong> Juan Carlos Pérez Duthie,
+                                    19 de marzo de 2007. Periódico El Nuevo Día. <br>
+                                    Páginas 72 y 73. <br> <br>
+
+                                    <strong>Room for more.</strong> Culturesurge/ Artburst, 18 de
+                                    marzo de 2007. Juan Carlos Pérez Duthie. www.
+                                    category305.com/200704/18/roomformore. Marzo
+                                    18, 2007.
+                                    <br><br>
+                                    <strong>Impactan los latinoamericanos en Arteaméricas
+                                        ’07. </strong> Jorge Rodríguez, 17 de marzo de 2007.
+                                    Periódico el Vocero. Página 39.
+                                    <br><br>
+                                    <strong>Comienza hoy Arteaméricas en la ciudad del sol.</strong>
+                                    Por la Redacción, 16 de marzo de 2006. Periódico El
+                                    Nuevo Día. Página 90.
+                                    <br><br>
+
+                                    <strong>More on Miami. </strong> Ben Davis, 16 de diciembre de
+                                    2006. Artnet Magazine. Páginas 1- 7. <br>
+                                    <strong>Cultura.</strong> Mario Alegre Barrios, 5 de diciembre de
+                                    2006. Periódico El Nuevo dia.
+                                    <br><br>
+                                    <strong>Arte entre la expresión y la inversión.</strong> Tamara
+                                    Estrada del Campo, octubre a noviembre de 2006.
+                                    Revista Industriales. <br>
+                                    Páginas 58 y 59.
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Nueva sede para el arte.</strong> Por la Redacción de El
+                                    Vocero, 14 de octubre de 2006. Periódico El Vocero.
+                                    Página 16. <br> <br>
+
+                                    <strong>Galería representa a grandes maestros y nuevos
+                                        talentos.</strong> Angiemer Vázquez Acevedo, 7 de octubre
+                                    de 2006. Periódico <br>
+                                    Primera Hora. Página 32.
+                                    <br><br>
+                                <strong>    Doce Galerías de San Juan en tributo al artista
+                                    Basquiat en Puerto Rico.</strong> Redacción, octubre de
+                                    2006. <strong>Art PREMIUM</strong> La Revista de Arte de Puerto
+                                    Rico. Edición Especial. Páginas 1 y 4. <br> <br>
+
+                                    <strong>Entrevista a Linda Sánchez Pintor.</strong> Presentación
+                                    para el PR Art and Wine Fair. 26 de septiembre de
+                                    2006. Cultura Viva. 8:00 PM. TuTV Canal 6.
+                                    <br><br>
+                                   <strong> Linda Sánchez Pintor, POETA DE LA LÍNEA Y
+                                    EL ESPACIO.</strong> Ralph Vázquez, julio a agosto 2005.
+                                    Nuevo Talento, <strong>Art PREMIUM</strong> La Revista de Arte
+                                    de Puerto Rico. Vol. 2 Núm. 9. Páginas 80- 83.
+                                    <br><br>
+                                    <strong>Nuevos diálogos con Colombani.</strong> Jorge Rodríguez,
+                                    28 de agosto de 2004. Periódico el Vocero. Página
+                                    38.
+                                    <br><br>
+                                    <strong>Nuevos diálogos de Leslie Colombani.</strong> Redacción,
+                                    18 de agosto de 2004. Periódico El Vocero. Página
+                                    19. <br> <br>
+                                    <strong>El espejo de la tradición artística... de Museo
+                                        Galería de Arte.</strong> Entrevista- Maribella Martínez/
+                                    Redacción. <strong>Art PREMIUM</strong> La Revista de Arte de
+                                    Puerto Rico. Volumen 1 Número 2 Edición Marzo/
+                                    Abril 2004. Páginas 16- 20.
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Marcial al desnudo en la Galería ... de Museo.</strong> <br>
+                                    Redacción, 21 de febrero de 2004. Periódico El
+                                    Nuevo Día. Página 34.
+                                    <br><br>
+                                    <strong>Maestro del color y movimiento Félix Bonilla
+                                        Norat.</strong> Jorge Rodríguez, 6 de noviembre de 2003.
+                                    Periódico el Vocero. <br>
+                                    Páginas E2, E16 y E17.
+                                    <br><br>
+                                    <strong>Bonilla Norat en ... de Museo. </strong> Redacción, 31 de
+                                    octubre de 2003. Periódico El Nuevo Día. Página
+                                    25. <strong>Galeristas de vanguardia. </strong> Ileana Cidoncha, 30
+                                    de octubre de 2003. Periódico el Vocero. Portada
+                                    Revista Escenario. <br>
+                                    Páginas E7 - E9. <br> <br>
+
+                                    <strong>A la luz varios Meléndez.</strong> Tatiana Pérez Rivera, 11
+                                    de septiembre de 2003. Periódico El Nuevo Día.
+                                    Página 6. 
+                                    <br> <br>
+                                    <strong>Obra sobre papel de Meléndez Contreras.</strong> Jorge
+                                    Rodríguez, 11 de septiembre de 2003. Periódico el
+                                    Vocero. <br>
+                                    Páginas E2 y E15.
+                                    <br><br>
+                                    <strong>La esencia original de Bonilla.</strong> Haydee Venegas
+                                    Ávila, 29 de agosto de 2003. Periódico El Nuevo
+                                    Día. Página, 6
+                                    <br><br>
+                                    <strong>Tras bastidores.</strong> María Trelles Hernández, 28 de
+                                    agosto de 2003. Periódico Primera Hora. Páginas
+                                    68 y 69. 
+                                    <br><br>
+                                    <strong>José Bonilla Ryan: homenaje y un nuevo espacio.</strong>
+                                    Jorge Rodríguez, 12 de agosto de 2003. Periódico el
+                                    Vocero. <br>
+                                    Páginas E12 y E13.
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>A exponer 30 obras de Bonilla Ryan.</strong> Tatiana Pérez
+                                    Rivera, 9 de agosto de 2003. Periódico El Nuevo
+                                    Día. Página 28.
+                                    <br><br>
+
+                                    <strong>José Bonilla Ryan legado abstracto boricua.</strong>
+                                    Jorge Rodríguez, 2 de agosto de 2003. Periódico el
+                                    Vocero. Páginas E6 y E7.
+                                    <br><br>
+                                    <strong>El Boom de las Galerías de Arte en el Puerto Rico
+                                        del siglo XXI/ “The Boom” of the Art Galleries in
+                                        Puerto Rico, 21st
+                                        Century. </strong> Profesora Haydée Venegas.
+                                    CONTEMPORANÍA <i>La revista del arte en el Caribe
+                                        Internacional/ The Art in the International Caribbean
+                                        Magazine.</i> Número 13 Mayo a Julio de 2003.
+                                    Páginas 52- 58.
+                                    <br><br>
+                                    <strong>Noche de luna.</strong> Redacción, abril 2003. Modo de
+                                    Vida Recurso de ideas para la remodelación y
+                                    decoración del hogar. Página 94.
+                                    <br><br>
+                                    <strong>Samuel Sánchez... candidez y franqueza.</strong>
+                                    José Antonio Pérez Ruiz, 19 de abril de 2003.
+                                    Periódico el Vocero. <br>
+                                    Páginas E6 y E7.
+                                    <br><br>
+                                    <strong>A premiar lo mejor de la plástica. </strong> Redacción, 2 de
+                                    marzo de 2003. Periódico El Nuevo Día. Páginas 80
+                                    y 81. <br> <br>
+                                    <strong>De lo histórico a la modernidad.</strong> Jorge Rodríguez,
+                                    17 de septiembre de 2002. Periódico el Vocero.
+                                    Páginas E22 y E23. <br><br>
+
+                                    <strong>Exposición de artistas locales.</strong> Por la Redacción,
+                                    14 de septiembre de 2002. Periódico El Nuevo Día. <br>
+                                    Página 79.
+                                    
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Carlos Marcial.</strong> 25 de agosto de 2002. Revista
+                                    Domingo, Periódico El Nuevo Día. Página 3.
+                                    <br><br>
+                                    <strong>Parajes olvidados con chasis.</strong> Mario Alegre
+                                    Barrios, 18 de agosto de 2002. Periódico El Nuevo
+                                    Día. Página 88.
+                                    <br><br>
+                                    <strong>Parajes olvidados de Carlos Marcial.</strong> Redacción,
+                                    17 de agosto de 2002. Periódico el Vocero. Página
+                                    E16.
+                                    <br><br>
+                                    <strong>Hoy se inaugura Arte en dos tiempos.</strong> Redacción,
+                                    23 de mayo de 2002. Periódico El Nuevo Día.
+                                    Página 95.
+                                    <br><br>
+                                    <strong>La noche de los premios AICA.</strong> Jorge Rodríguez,
+                                    28 de marzo de 2002. Periódico el Vocero. Página
+                                    E8.
+                                    <br><br>
+                                    <strong>Entrega la AICA sus premios.</strong> Rebecca Noriega
+                                    Costas, 28 de marzo de 2002. Periódico El Nuevo
+                                    Día. Páginas 86 y 87.
+                                    <br><br>
+                                    <strong>Preludio polémico para la AICA.</strong> Mario Alegre
+                                    Barrios, 20 de marzo de 2002. Periódico El Nuevo
+                                    Día. Páginas 72 y 73.
+                                    <br><br>
+                                    <strong>Reparten suerte críticos de arte.</strong> Jorge Rodríguez,
+                                    16 de marzo de 2002. Periódico el Vocero. Páginas
+                                    E10 y E11.
+                                    <br><br>
+                                    <strong>Isaura Mergal simplemente naif.</strong> Por Redacción, 13
+                                    de marzo de 2002. Periódico El Nuevo Día. Página
+                                    76.
+                                    <br><br>
+                                    <strong>Isaura Mergal... y su misteriosa poesía pictórica.</strong>
+                                    Jorge Rodríguez, 9 de marzo de 2002. Periódico el
+                                    Vocero. <br>
+                                    Páginas E6 y E7.
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Colombani en ... de Museo.</strong> Redacción, 7 de
+                                    febrero de 2002. Periódico El Nuevo Día. Página 77.
+                                    <br><br>
+                                    <strong>Intramundos de Leslie Colombani. </strong>José Antonio
+                                    Pérez Ruiz, 6 de febrero de 2002. Periódico el
+                                    Vocero. Páginas E28 y E29.
+                                    <br><br>
+                                    <strong>Agenda en... de Museo.</strong> Redacción, 4 de enero de
+                                    2002. Periódico El Nuevo Día. Página 75.
+                                    <br><br>
+                                    <strong>Chispeante arte 2001.</strong> Maribel Aguayo, 3 de enero
+                                    de 2002. Periódico el Vocero. Página E22.
+                                    <br><br>
+                                    <strong>Apertura en... de Museo.</strong> Mario Alegre Barrios,
+                                    22 de diciembre de 2001. Periódico El Nuevo Día.
+                                    Página 79.
+                                    <br><br>
+                                    <strong>El espacio íntimo de Bonilla Norat.</strong> Mario Alegre
+                                    Barrios, 25 de octubre de 2001. Periódico El Nuevo
+                                    Día. Página 102.
+                                    <br><br>
+                                    <strong>El nuevo Museo de Arte de Puerto Rico.</strong> Haydee
+                                    Venegas, octubre de 2001. Revista Arco, España.
+                                    Núm. 22.
+                                    <br><br>
+                                    <strong>“... de Museo” una galería visionaria.</strong> José Antonio
+                                    Pérez Ruiz, 28 de abril de 2001. Periódico el Vocero.
+                                    Páginas E2 y E3.
+                                    <br><br>
+                                    <strong>Un pintor llamado Carlos Raquel.</strong> José Antonio
+                                    Pérez Ruiz, 21 de abril de 2001. Periódico el Vocero.
+                                    Páginas E18 y E19.
+                                    <br><br>
+                                    <strong>Nueva galería en Miramar.</strong> Antonio J. Molina, 1 de
+                                    junio de 2000. Periódico El Diario. Página 15.
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                                    <strong>Nuevas microempresas en horizonte sanjuanero.</strong>
+                                    Ileanexis Vera Rosado, 4 de mayo de 2000.
+                                    Periódico el Vocero. <br>
+                                    Página 67.
+                                    <br><br>
+                                    <strong>Félix Bonilla Norat... intérprete de su tiempo.</strong> José
+                                    Antonio Pérez Ruiz, 20 de marzo de 2000. Periódico
+                                    El Vocero. <br>
+                                    Página E12.
+                                    <br><br>
+                                    <strong>... de Museo con Bonilla Norat.</strong> 12 de marzo de
+                                    2000. Por la Redacción. 12 de marzo de 2000.
+                                    Periódico El Nuevo Día. <br>
+                                    Página 78.
+                                    <br><br>
+                                    <strong>Desde el Caribe</strong>. Abil Peralta Agüero, 2000. Arte al
+                                    Día News. Página 5.
+                                    <br><br>
+                                    <strong><u>FILMOGRAFIA / FILMOGRAPHY</u></strong>
+                                    <br><br>
+                                    <strong>The Needle/ La Aguja</strong>
+                                    (2012) Director, Cinematographer, Associate
+                                    producer.
+                                    <br><br>
+                                    <strong>Camil</strong>
+                                    (2012) Director, Cinematography.
+                                    <br><br>
+                                    <strong>Pandora’s Boxed</strong>
+                                    (2016) Director,Cinematographer, Editor, Producer.
+                                    <br><br>
+                                    <strong>Heteropraxis</strong>
+                                    (2016) Director, Cinematographer, Editor, Producer.
+                                    <br><br>
+                                    <strong>Deep Water Sway/Agua Fuerte</strong>
+                                    (2017) Director, Cinematographer, Editor, Producer. 
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide> 
+        <div class="row">
+            <div class="col-12">
+                <div class="barra barra3"></div>
+                <img src="{{asset('public/img/home.png')}}" class="homeIcon" alt="home" id="homeIcon">
+            </div>
+            <div class="col-12 lista listaContainer">
+                <div class="container">
+                    <table class="tabCurri">
+                        <tr>
+                            <td class="tabSubtitulo">
+                                
+                            </td>
+                            <td>
+                                <p class="tablaContenido">
+                             <strong>       EVALUACIÓN DE COLECCIONES PÚBLICAS Y
+                                PRIVADAS (selección)</strong>
+                                    <br><br>
+                                    <strong><small>Agency of Private and public art collections (selection)</small></strong>
+                                    <br><br>
+                                    <strong>Museo de Arte de Ponce</strong>
+                                    Ponce, Puerto Rico
+                                    <br><br>
+                                    <strong>Sucesión Lorenzo Homar, San Juan Puerto Rico</strong>
+                                    Evaluador/Curador delegado
+                                    San Juan, Puerto Rico
+                                    <br><br>
+                                    <strong>ICP, Instituto de Cultura puertorriqueña</strong>
+                                    San Juan, Puerto Rico
+                                    <br><br>
+                                    <strong>Museo de Arte de Puerto Rico</strong>
+                                    San Juan, Puerto Rico
+                                    <br><br>
+                                    <strong>Cooperativa de Seguros Múltiples de Puerto Rico</strong>
+                                    San Juan, Puerto Rico
+                                    <br><br>
+                                    <strong>University of New Mexico, Collection of the
+                                        Library, Mr. Russ Davidson, Curator</strong>
+                                    Alburquerque, New México
+                                    <br><br>
+                                    <strong>Museo de Historia, Antropología y Arte</strong>
+                                    Universidad de Puerto Rico
+                                    Recinto de Río Piedras
+                                    Río Piedras, Puerto Rico
+                                    <br><br>
+                                    <strong>Museo de Arte de Bayamón</strong>
+                                    Gobierno Autónomo de Bayamón
+                                    Bayamón, Puerto Rico
+                                    <br><br>
+                                    <strong>Colección Chocolate Cortés</strong>
+                                    Caguas, Puerto Rico
+                                    <br><br>
+                                    <strong>World Chess Hall of fame</strong>
+                                    Saint Louis, Missouri. U.S.A.
+                                    <br><br>
+                                    <strong>Coleccion Empresas Bacardi</strong>
+                                    Cataño, Puerto Rico
+                                </p>
+                            </td>
+                        </tr>
+              
+                    </table>
+                </div>
+            </div>
+            
+        </div>
+    </swiper-slide>
+
+    <swiper-slide>
+        
+           <div class="row">
+               <div class="col-12">                    
+                   <div class="barra barra6"></div>
+                   <img src="{{asset('public/img/home.png')}}" class="homeIcon"  alt="home" id="homeIcon">
+       
+               </div>
+               <div class="col-12 slide3Title tituloInt">
+                   <p>&nbsp; Aliados</p>
+               </div>
+               <div class="slide3Content">
+               <p> Esta muestra pretende explorar la rica herencia
+                cultural de la mitología y la espiritualidad a través
+                del arte contemporáneo, en un paralelismo con la
+                sociedad actual.
+                <br><br>
+                Hasta la fecha, hemos establecido contactos
+                prometedores con diversos sectores clave,
+                incluyendo DMO de Puerto Rico (Destination
+                Management Organization).
+                <br><br>
+                El gobierno de la Ciudad de San Juan, empresas
+                privadas y coleccionistas privados y programas de
+                ayuda federal, “Endowment”, (USA) para las artes.
+                <br><br>
+                Entendemos la importancia de colaborar con
+                entidades comprometidas con el desarrollo cultural
+                y artístico, y creemos en este proyecto.
+                <br><br>
+                Los patrocinios financieros, donaciones en especie
+                o programas de becas, serán fundamentales para
+                garantizar el éxito de la exhibición y su impacto
+                duradero en nuestra comunidad.
+                <br><br>
+                Dichas gestiones ya se han comenzado, por la
+                presentación de la Muestra en el Museo Rollins en
+                Winter Park, Florida. Gracias a su carta de invitación
+                y toda la documentación presentada a dichas
+                Instituciones y personas. Lo mismo quisieramos
+                extender para la presentación en México.
+                <br><br>
+                Agradecemos de antemano su consideración y apoyo.
+                Juntos, podemos hacer de “Mitos y Dioses” una
+                experiencia cultural única e inspiradora, presentada
+                en México, Puerto Rico y Estados Unidos para el
+                beneficio y disfrute del público en cada país.</p>
+               </div>
+               
+           </div>
+   </swiper-slide>
+
+
+   <swiper-slide>
+    
+      <div class="row">
+          <div class="col-12">                    
+              <div class="barra barra6"></div>
+              <img src="{{asset('public/img/home.png')}}" class="homeIcon"  alt="home" id="homeIcon">
+  
+          </div>
+          <div class="col-12 slide3Title tituloInt">
+              <p style="font-size: 40px">&nbsp; Propuesta</p>
+              <p style="font-size: 40px">&nbsp; <strong>de programa</strong></p>
+              <p style="font-size: 40px">&nbsp; <strong>público</strong></p>
+          </div>
+          
+          <div class="slide3Content">
+            <p>
+                Para la exhibición Mitos y dioses, solicitada
+                para el Museo de Arte Moderno de México para
+                consideración, me gustaría cubrir las siguientes
+                actividades durante el tiempo que la misma se esté
+                presentando.
+            </p>
+            <p>
+                Los ponentes y talleristas podrían incluir figuras
+                destacadas en los campos de género, arte indígena,
+                estudios culturales y activismo social, tanto de
+                México como de Puerto Rico y otras partes del
+                mundo.
+            </p>
+            <p>
+                Para la exhibición las actividades a considerar
+                serían las siguientes:
+            </p>
+            <p style="font-weight: bold;margin-button:-10px">1. Conferencias y paneles:</p>
+            <p>
+                • Panel sobre “Perspectivas de género en la mitología
+                antigua y contemporánea” con ponentes expertos
+                en estudios de género e historia.
+                <br><br>
+                • Conferencia sobre “Mitología y resistencia: voces
+                indígenas en el arte contemporáneo” con líderes
+                indígenas y artistas visuales.
+                <br><br>
+                • Mesa redonda sobre “Narrativas de inclusión:
+                representación LGQTIIQ+ en el arte y la mitología”
+                con activistas y artistas queer.
+            </p>
+          </div>
+
+       
+          
+      </div>
+</swiper-slide>
+
+<swiper-slide>
+       
+  <div class="row">
+      <div class="col-12">                    
+          <div class="barra barra6"></div>
+          <img src="{{asset('public/img/home.png')}}" class="homeIcon"  alt="home" id="homeIcon">
+
+      </div>
+      <div class="slide3Content">
+        <p style="font-weight: bold;margin-button:-10px">2. Talleres interactivos:</p>
+        <p>
+            • Taller de arte para mujeres sobrevivientes de
+            violencia de género, enfocado en expresión
+            creativa y sanación.
+            <br><br>
+            • Taller de mitología comparada, explorando
+            paralelismos entre las creencias ancestrales y las
+            narrativas contemporáneas.
+            <br><br>
+            • Taller de narración de historias para jóvenes
+            indígenas, destacando la importancia de
+            preservar y compartir tradiciones orales.
+        </p>
+        <p style="font-weight: bold;margin-button:-10px">3. Proyecciones y presentaciones:</p>
+        <p>
+            • Proyección de cortometrajes sobre mitología y
+            género, producidos por cineastas emergentes.
+            <br><br>
+            • Presentación de libros y materiales educativos
+            sobre mitología y diversidad cultural, con énfasis
+            en textos inclusivos y representativos.
+        </p>
+        <p style="font-weight: bold;margin-button:-10px"> 4. Exposiciones adicionales, que se esten
+            presentando al unison en la Ciudad que aborden:</p>
+        <p>
+            • Exposición de arte indígena contemporáneo,
+            destacando obras que reinterpretan mitos
+            ancestrales desde una perspectiv contemporánea.
+            <br><br>
+            • Exposición fotográfica sobre identidad de género
+            y diversidad sexual en comunidades marginadas,
+            con retratos y testimonios de personas LGQTIIQ+.
+            <br><br>
+            Los ponentes y talleristas podrían incluir figuras
+            destacadas en los campos de género, arte indígena,
+            estudios culturales y activismo social, tanto de
+            México como de Puerto Rico y otras partes del
+            mundo.
+        </p>
+      </div>
+
+
+  </div>
+</swiper-slide>
+
+        <swiper-slide style=" background-color: #ffcf3c;">
+            <div class="contenedor">
+              asdsad
+            </div>
+        </swiper-slide>
+
 
   </swiper-container>
 

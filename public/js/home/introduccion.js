@@ -36,7 +36,13 @@ $(document).ready(function () {
   $('#menu4').click(function () {
     retrunSlider(32)
   });
+  $('#menu6').click(function () {
+    retrunSlider(54)
+  });
   $('#menu7').click(function () {
+    retrunSlider(55)
+  });
+  $('#menu5').click(function () {
     window.location.href = base_url+"/obras";
   });
   // $('#homeIcon').click(function () {
