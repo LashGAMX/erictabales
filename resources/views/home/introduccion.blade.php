@@ -4287,10 +4287,18 @@
   </div>
 </swiper-slide>
 
-        <swiper-slide style=" background-color: #ffcf3c;">
-            <div class="contenedor">
-              asdsad
-            </div>
+        <swiper-slide >
+           <div class="divFooter">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 textoFooter">
+                            <p style="font-size: 20px">Con gratitud, emoción y respeto,</p>
+                            <p style="font-size: 30px">Eric Tabales</p>
+                            <p style="font-size: 20px">Artista</p>
+                        </div>
+                    </div>
+                </div>
+           </div>
         </swiper-slide>
 
 

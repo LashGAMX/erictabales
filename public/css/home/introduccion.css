@@ -308,10 +308,16 @@ html,
   height: 30px;
   
 }
-.contenedor{
-  background-color: #ffcf3c;
-  margin: 0;
-  padding: 0;
+.divFooter{
+  position: fixed;
   width: 100%;
-  height: 100%;
+  height: 1000px;
+  background: #ffcf3c;
+  z-index: -2;
+
+}
+.textoFooter{
+  color: #FFF;
+  text-align: right;
+  margin-top: 80%;
 }
